@@ -1027,7 +1027,7 @@ Este é um projeto educacional. Para contribuir:
 ## 💬 Suporte
 
 - 💡 **Dúvidas sobre Spring Boot**: [Stack Overflow](https://stackoverflow.com/questions/tagged/spring-boot)
-- 🎓 **Dúvidas sobre o curso**: [DevMedia](https://www.devmedia.com.br) ou [Alura](https://www.alura.com.br)
+- 🎓 **Dúvidas sobre o curso**: [DevMedia](https://www.devmedia.com.br)
 - 🐛 **Issues**: Abra uma issue neste repositório
 
 ---
