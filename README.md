@@ -20,7 +20,7 @@
 
 A **Voll.med REST API** é uma aplicação backend desenvolvida com **Spring Boot 3** para gerenciamento de cadastros médicos de uma clínica fictícia. Este é um projeto **introdutório** que foca nos fundamentos de desenvolvimento de APIs REST com Spring Framework.
 
-Este projeto foi desenvolvido durante o **Curso de Spring Boot 3: documente, teste e prepare uma API para o deploy** da **DevMedia**, abordando os conceitos essenciais:
+Este projeto foi desenvolvido durante o **Curso de Spring Boot 3: desenvolva uma API Rest em Java** da **DevMedia**, abordando os conceitos essenciais:
 
 - 🌐 **REST API** com Spring Web
 - 💾 **Persistência** com JPA/Hibernate
@@ -912,10 +912,10 @@ SELECT * FROM flyway_schema_history;
 
 ### Curso Base
 
-**Curso**: Spring Boot 3: documente, teste e prepare uma API para o deploy  
+**Curso**: Spring Boot 3: desenvolva uma API Rest em Java 
 **Plataforma**: [DevMedia](https://www.devmedia.com.br)  
 **Instrutor**: Rodrigo Ferreira  
-**Escola**: [Alura](https://www.alura.com.br)
+**Escola**: [Alura](https://www.devmedia.com.br)
 
 ### Documentação Oficial
 
