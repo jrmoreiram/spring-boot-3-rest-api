@@ -983,7 +983,7 @@ Port 8080 was already in use
 
 ## 📄 Licença
 
-Projeto desenvolvido pela [Alura](https://www.alura.com.br) para fins educacionais.
+Projeto desenvolvido pela [DevMedia](https://www.devmedia.com.br/) para fins educacionais.
 
 ---
 
