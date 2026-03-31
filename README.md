@@ -79,37 +79,37 @@ O projeto segue uma **arquitetura em camadas simplificada** (MVC pattern adaptad
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│               CONTROLLER LAYER                        │
+│               CONTROLLER LAYER                       │
 │          (Apresentação/Requisições HTTP)             │
 │                                                      │
 │  MedicoController                                    │
-│    └── Endpoints REST (GET, POST, PUT, DELETE)      │
+│    └── Endpoints REST (GET, POST, PUT, DELETE)       │
 └──────────────────────────────────────────────────────┘
                         ↓
 ┌──────────────────────────────────────────────────────┐
-│                 DOMAIN LAYER                          │
-│           (Entidades e Lógica de Domínio)           │
+│                 DOMAIN LAYER                         │
+│           (Entidades e Lógica de Domínio)            │
 │                                                      │
-│  Medico (Entidade JPA)                              │
-│  Endereco (Embeddable)                              │
-│  Especialidade (Enum)                               │
-│  DTOs (Records): Cadastro, Atualização, Listagem   │
+│  Medico (Entidade JPA)                               │
+│  Endereco (Embeddable)                               │
+│  Especialidade (Enum)                                │
+│  DTOs (Records): Cadastro, Atualização, Listagem     │
 └──────────────────────────────────────────────────────┘
                         ↓
 ┌──────────────────────────────────────────────────────┐
-│             REPOSITORY LAYER                          │
+│             REPOSITORY LAYER                         │
 │           (Acesso a Dados/Persistência)              │
 │                                                      │
-│  MedicoRepository (Spring Data JPA)                 │
-│    └── Queries derivadas: findAllByAtivoTrue()     │
+│  MedicoRepository (Spring Data JPA)                  │
+│    └── Queries derivadas: findAllByAtivoTrue()       │
 └──────────────────────────────────────────────────────┘
                         ↓
 ┌──────────────────────────────────────────────────────┐
-│                 DATABASE LAYER                        │
+│                 DATABASE LAYER                       │
 │              (MySQL + Flyway Migrations)             │
 │                                                      │
-│  MySQL Database: vollmed_api                        │
-│  Flyway: Versionamento automático                   │
+│  MySQL Database: vollmed_api                         │
+│  Flyway: Versionamento automático                    │
 └──────────────────────────────────────────────────────┘
 ```
 
