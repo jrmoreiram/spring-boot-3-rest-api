@@ -915,7 +915,7 @@ SELECT * FROM flyway_schema_history;
 **Curso**: Spring Boot 3: desenvolva uma API Rest em Java 
 **Plataforma**: [DevMedia](https://www.devmedia.com.br)  
 **Instrutor**: Rodrigo Ferreira  
-**Escola**: [Alura](https://www.devmedia.com.br)
+**Escola**: [DevMedia](https://www.devmedia.com.br)
 
 ### Documentação Oficial
 
