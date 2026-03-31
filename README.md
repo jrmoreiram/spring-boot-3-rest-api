@@ -1,18 +1,18 @@
 # 🏥 Voll.med - API REST com Spring Boot 3
 
 ## 📋 Índice
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Arquitetura](#arquitetura)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação e Configuração](#instalação-e-configuração)
-- [Banco de Dados](#banco-de-dados)
-- [Endpoints da API](#endpoints-da-api)
-- [Boas Práticas Implementadas](#boas-práticas-implementadas)
-- [Roadmap](#roadmap)
-- [Referências](#referências)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Funcionalidades](#%EF%B8%8F-funcionalidades)
+- [Arquitetura](#%EF%B8%8F-arquitetura)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Pré-requisitos](#-pré-requisitos)
+- [Instalação e Configuração](#-instalação-e-configuração)
+- [Banco de Dados](#%EF%B8%8F-banco-de-dados)
+- [Endpoints da API](#-endpoints-da-api)
+- [Boas Práticas Implementadas](#-boas-práticas-implementadas)
+- [Roadmap](#%EF%B8%8F-roadmap)
+- [Referências](#-referências)
 
 ---
 
