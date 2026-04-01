@@ -20,7 +20,7 @@
 
 A **Voll.med REST API** é uma aplicação backend desenvolvida com **Spring Boot 3** para gerenciamento de cadastros médicos de uma clínica fictícia. Este é um projeto **introdutório** que foca nos fundamentos de desenvolvimento de APIs REST com Spring Framework.
 
-Este projeto foi desenvolvido durante o **Curso de Spring Boot 3: desenvolva uma API Rest em Java** da **DevMedia**, abordando os conceitos essenciais:
+Este projeto foi desenvolvido durante o **Curso de Spring Boot 3: desenvolva uma API Rest em Java** da **Alura**, abordando os conceitos essenciais:
 
 - 🌐 **REST API** com Spring Web
 - 💾 **Persistência** com JPA/Hibernate
@@ -913,9 +913,9 @@ SELECT * FROM flyway_schema_history;
 ### Curso Base
 
 - **Curso**: Spring Boot 3: desenvolva uma API Rest em Java
-- **Plataforma**: [DevMedia](https://www.devmedia.com.br)  
+- **Plataforma**: [Alura](https://www.alura.com.br)  
 - **Instrutor**: Rodrigo Ferreira  
-- **Escola**: [DevMedia](https://www.devmedia.com.br)
+- **Escola**: [Alura](https://www.alura.com.br)
 
 ### Documentação Oficial
 
@@ -983,13 +983,13 @@ Port 8080 was already in use
 
 ## 📄 Licença
 
-Projeto desenvolvido pela [DevMedia](https://www.devmedia.com.br/) para fins educacionais.
+Projeto desenvolvido pela [Alura](https://www.alura.com.br/) para fins educacionais.
 
 ---
 
 ## 👨‍💻 Sobre
 
-Projeto educacional baseado no curso da **DevMedia**, focado em fundamentos de desenvolvimento de APIs REST com Spring Boot 3.
+Projeto educacional baseado no curso da **Alura**, focado em fundamentos de desenvolvimento de APIs REST com Spring Boot 3.
 
 ### Evolução do Projeto
 
@@ -1027,7 +1027,7 @@ Este é um projeto educacional. Para contribuir:
 ## 💬 Suporte
 
 - 💡 **Dúvidas sobre Spring Boot**: [Stack Overflow](https://stackoverflow.com/questions/tagged/spring-boot)
-- 🎓 **Dúvidas sobre o curso**: [DevMedia](https://www.devmedia.com.br)
+- 🎓 **Dúvidas sobre o curso**: [Alura](https://www.alura.com.br/)
 - 🐛 **Issues**: Abra uma issue neste repositório
 
 ---
